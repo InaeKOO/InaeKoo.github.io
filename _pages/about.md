@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 I'm a Self-motivated sophomore student majoring in SNU Electrical & Computer engineering with experience in projects on various Neural Networks, Quantum computing, Reinforcement learning.
 
 
@@ -18,6 +17,7 @@ My interests lie in
 - Trapped ION Quantum Computers
 - Optical Quantum Computers
 - Quantum Cryptography
+
 2. Neural networks and Machine Learning
 - Designing AI Models using LLM, RAG
 - Applying AI Models into various subjects such as physics, quantum computers
