@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.png
 ---
 
 Hi, this is Inae Koo. I'm a Self-motivated sophomore student majoring in SNU Electrical & Computer engineering with experience in projects on various Neural Networks, Quantum computing, Reinforcement learning.
