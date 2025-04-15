@@ -7,10 +7,12 @@ image: 01.png
 
 Hi, this is Inae Koo. I'm a Self-motivated sophomore student majoring in SNU Electrical & Computer engineering with experience in projects on various Neural Networks, Quantum computing, Reinforcement learning.
 
+
+
 ***
 
 #### More About Me
-<small>2008 - 2018</small>
+<small>2002 - </small>
 
 My interests lie in
 
