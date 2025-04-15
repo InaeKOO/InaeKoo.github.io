@@ -2,25 +2,41 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: 01.png
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Hi, this is Inae Koo. I'm a Self-motivated sophomore student majoring in SNU Electrical & Computer engineering with experience in projects on various Neural Networks, Quantum computing, Reinforcement learning.
 
 ***
 
-#### Austin scenester...
+#### More About Me
 <small>2008 - 2018</small>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+My interests lie in
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+1. Developing Quantum computer Hardware/Software, such as
+- Trapped ION Quantum Computers
+- Optical Quantum Computers
+- Quantum Cryptography
+2. Neural networks and Machine Learning
+- Designing AI Models using LLM, RAG
+- Applying AI Models into various subjects such as physics, quantum computers
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+#### Summary of Qualification
+<small>2021 - 2025</small>
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+1 . Self-motivated sophomore student majoring in SNU Electrical & Computer engineering with experience in projects on various Neural Networks, Quantum computing, image processing by Computer vision.
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+72 credits, GPA 4.14 (Major GPA 4.08 / 4.3)
+2 . Very confident in implementing ML/DL research papers and research ideas via Pytorch, Tensorflow, etc.
+
+2023 Artificial Intelligence Competition for Product Recognition of Unmanned Vendors based on Deep Learning: 1 st Prize
+Classification and recycling challenge of AI object recognition-based resources: 2 nd Prize
+Big Data Innovation Sharing University Data-Centric University 4.0 contest: 3 rd Prize
+3 . Very confident in giving a presentation in English and writing in English. Ready and eager. Have strong mathematical & physic skills. to collaborate with foreign researchers.
+
+TEPS: 466 (Near-Native Level of Communicative Competence)
+TOEFL: 104
+KPHE Classical Mechanics, Electromagnetics Expert
+Basic Circuit Theory and Experiment, Electrical System Linear Algebra (SNU) Top Student
+Basic Quantum computing and information (SNU) A+ among senior students
