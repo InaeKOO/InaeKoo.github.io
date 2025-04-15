@@ -26,6 +26,8 @@ My interests lie in
 
 
 
+
+
 #### Summary of Qualification
 <small>2021 - 2025</small>
 
