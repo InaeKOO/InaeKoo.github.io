@@ -18,18 +18,19 @@ layout: default
 </div>
 
 <style>
-	/* Default style for larger screens */
 	.page-image {
-	  width: 50%;
-	  background-size: cover;  /* Ensures the background image covers the div */
+	  margin: 0 auto;                 /* 수평 중앙 정렬 */
+	  width: 50%;                     /* 기본은 50% 너비 (데스크탑 등) */
+	  aspect-ratio: 16 / 9;           /* 이미지의 비율 (필요에 따라 수정) */
+	  background-size: contain;       /* 이미지 전체가 보이게 조정 (cover는 일부 잘릴 수 있음) */
 	  background-position: center;
 	  background-repeat: no-repeat;
 	}
-	
-	/* Adjust for mobile devices */
+  
+	/* 모바일에서는 너비를 100%로 변경 */
 	@media (max-width: 768px) {
 	  .page-image {
-		width: 50%;         /* Full viewport height on mobile */
+		width: 100%;
 	  }
 	}
   </style>
