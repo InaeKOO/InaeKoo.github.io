@@ -23,9 +23,7 @@ My interests lie in
 
 - Designing AI Models using LLM, RAG
 - Applying AI Models into various subjects such as physics, quantum computers
-
-
-
+&nbsp;  
 
 
 #### Summary of Qualification
