@@ -12,8 +12,8 @@ permalink: /about/
 
 * **Seoul National University (SNU)** (Mar 2021 – Present)
     * B.S. in Electrical & Computer Engineering
-    * Cumulative GPA: 4.14 / 4.30
-    * Major GPA: 4.08 / 4.30
+    * Cumulative GPA: 4.16 / 4.30
+    * Major GPA: 4.15 / 4.30
 * **Seoul Science High School (SSHS)** (Graduated Feb 2021)
 
 ---
@@ -40,7 +40,6 @@ permalink: /about/
     * **Project: Unitary Synthesis using GFlowNets**
         * Developing a novel reinforcement learning algorithm based on Generative Flow Networks (GFlowNets) to discover and construct optimal quantum circuits.
         * This research aims to significantly improve the efficiency of unitary synthesis, a fundamental challenge in quantum computing.
-        * The goal is to produce a first-author publication for a top-tier journal such as *Nature* or *Physical Review Letters*.
         * Presenting as a Poster Session in the IEEE ICCE Asia 2025 in Busan.
 
 ---
