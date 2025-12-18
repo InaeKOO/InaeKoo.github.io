@@ -77,6 +77,10 @@
   @media only screen and (max-width: $mobile) {
     background-size: contain;      
     background-color: transparent;
+    &:after {
+      padding-top: 100%;  /* 기존 50% -> 100% (정사각형 비율로 늘림) */
+      min-height: 400px;  /* 최소 높이도 300px -> 400px로 넉넉하게 확보 */
+    }
   }
 }
 
