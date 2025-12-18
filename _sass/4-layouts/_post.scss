@@ -74,6 +74,9 @@
     min-height: 300px;
     padding-top: 50%;
   }
+  @media only screen and (max-width: $mobile) {
+    background-size: contain;
+  }
 }
 
 .post {
