@@ -1,0 +1,18 @@
+Adaptive Quantum Shadow RL
+### 📜 *Adaptively Acquiring Shadows of a Quantum System from Very Few Measurements via RL*
+
+> **"Don't measure randomly. Let AI learn *what* to measure."**
+
+### 💡 The Problem: The Measurement Bottleneck
+[cite_start]Efficiently characterizing quantum many-body systems is a prerequisite for verifying quantum devices[cite: 5]. [cite_start]Traditional tomography scales exponentially with system size ($d=2^n$)[cite: 15]. [cite_start]While randomized protocols like **Classical Shadows** circumvent this scaling, they rely on fixed, task-agnostic sampling distributions and often waste the measurement budget on uninformative subspaces[cite: 6, 20].
+
+### 🚀 Key Innovation: "Learning to Measure"
+[cite_start]I propose a general-purpose **Reinforcement Learning framework** that treats the measurement process as a sequential decision-making problem[cite: 8]. [cite_start]Unlike static protocols, our agent dynamically selects the optimal Pauli basis ($X, Y, Z$) conditioned on the history of previous measurement outcomes[cite: 9, 34].
+
+* [cite_start]**Architecture:** A **Transformer-based policy network** captures correlations across qubits and measurement history to predict the most discriminative basis in real-time[cite: 9, 39].
+* [cite_start]**Method:** The agent operates in a feedback loop, updating its internal belief state with every new bit outcome to maximize classification accuracy with minimal sample complexity[cite: 8, 36].
+
+### 🏆 Why It Matters
+This framework shifts the paradigm from random sampling to **adaptive, task-oriented acquisition**.
+* [cite_start]**Sample Efficiency:** Achieves high accuracy in classifying entangled states (GHZ, W) and diagnosing noise with significantly fewer samples compared to random baselines[cite: 10, 40].
+* [cite_start]**Versatility:** The architecture generalizes to diverse tasks, including noise diagnosis, purity certification, and entanglement characterization[cite: 10].
