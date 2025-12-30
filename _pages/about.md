@@ -48,6 +48,7 @@ permalink: /about/
         * Unlike static protocols, our agent dynamically selects the optimal Pauli basis ($X, Y, Z$) conditioned on the history of previous measurement outcomes.
         * Joint work from the SNU CML Lab Quantum Machine Learning Group.
         * Submiting for ICML2026 in Seoul, Korea.
+
 ---
 
 ### Awards & Projects
