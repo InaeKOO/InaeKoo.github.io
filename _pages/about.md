@@ -36,12 +36,13 @@ permalink: /about/
 
 ### Research Experience
 
-* **Undergraduate Researcher** | Seoul National University (Jan 2024 – Present)
+* **Undergraduate Researcher** Seoul National University (Jan 2024 – Present)
     * **Project: QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks**
         * Developing a novel reinforcement learning algorithm based on Generative Flow Networks (GFlowNets) to discover and construct optimal quantum circuits.
         * This research aims to significantly improve the efficiency of unitary synthesis, a fundamental challenge in quantum computing.
         * Presenting as a Poster Session in the IEEE ICCE Asia 2025 in Busan, Korea.
         * Submitted in IEEE QCNC 2026 in Gobe, Japan.
+
 
    * **Project: Adaptively Acquiring Shadows of a Quantum System from Very Few Measurements via RL**
         * Propose a general-purpose Reinforcement Learning framework that treats the measurement process as a sequential decision-making problem (POMDP).
