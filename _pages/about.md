@@ -70,17 +70,17 @@ permalink: /about/
 ### Awards & Honors
 
 * **Presidential Science Scholarship** (2025): Awarded by the Office of the President to nurture world-class scientists.
-* **1st Prize** | AI Competition for Product Recognition of Unmanned Vendors, SNU (2022).
-* **2nd Prize** | U.S. CES & Silicon Valley Training Project Final Presentation, SNU College (2025).
-* **2nd Prize** | AI Object Recognition-Based Resource Recycling Challenge, Korea University (2022).
-* **3rd Prize** | Big Data Innovation Sharing University Contest, SNU (2021).
-* **Academic Excellence Scholarship** | Seoul National University (2021–2023).
+* **1st Prize**: AI Competition for Product Recognition of Unmanned Vendors, SNU (2022).
+* **2nd Prize**: U.S. CES & Silicon Valley Training Project Final Presentation, SNU College (2025).
+* **2nd Prize**: AI Object Recognition-Based Resource Recycling Challenge, Korea University (2022).
+* **3rd Prize**: Big Data Innovation Sharing University Contest, SNU (2021).
+* **Academic Excellence Scholarship**: Seoul National University (2021–2023).
 
 ---
 
 ### Teaching & Leadership
 
-* **Teaching Assistant** | *Introduction to Electromagnetism*, SNU (Sep. 2025 – Dec. 2025).
-* **Laboratory Teaching Assistant** | *Introduction to Circuit Theory*, SNU (Sep. 2025 – Dec. 2025).
-* **External Affairs** | College of Engineering Honor Society **STEM** (Sep. 2025 – Aug. 2027).
-* **Protocol Team** | AI Biohealthcare Drug Discovery SUMMIT, Stanford University (Jan. 2026).
+* **Teaching Assistant**: *Introduction to Electromagnetism*, SNU (Sep. 2025 – Dec. 2025).
+* **Laboratory Teaching Assistant**: *Introduction to Circuit Theory*, SNU (Sep. 2025 – Dec. 2025).
+* **External Affairs**: College of Engineering Honor Society **STEM** (Sep. 2025 – Aug. 2027).
+* **Protocol Team**: AI Biohealthcare Drug Discovery SUMMIT, Stanford University (Jan. 2026).
