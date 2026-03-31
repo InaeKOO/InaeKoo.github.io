@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
->> I am a self-motivated student at **Seoul National University (SNU)** majoring in **Electrical and Computer Engineering** with extensive experience in **Quantum Computing**, **Artificial Intelligence**, and **Semiconductor Devices**. My work focuses on reinforcement learning for quantum systems, Generative Flow Networks (GFlowNet), and neutral atom rearrangement.
+>>> I am a self-motivated student at **Seoul National University (SNU)** majoring in **Electrical and Computer Engineering** with extensive experience in **Quantum Computing**, **Artificial Intelligence**, and **Semiconductor Devices**. My work focuses on reinforcement learning for quantum systems, Generative Flow Networks (GFlowNet), and neutral atom rearrangement.
 
 ---
 
