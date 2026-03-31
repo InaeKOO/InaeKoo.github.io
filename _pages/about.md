@@ -69,7 +69,7 @@ permalink: /about/
 
 ### Awards & Honors
 
-* ** Presidential Science Scholarship** (2025): Awarded by the Office of the President to nurture world-class scientists.
+* **Presidential Science Scholarship** (2025): Awarded by the Office of the President to nurture world-class scientists.
 * **1st Prize** | AI Competition for Product Recognition of Unmanned Vendors, SNU (2022).
 * **2nd Prize** | U.S. CES & Silicon Valley Training Project Final Presentation, SNU College (2025).
 * **2nd Prize** | AI Object Recognition-Based Resource Recycling Challenge, Korea University (2022).
