@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Inae
+title: Inhoe
 # logo: Inae_logo.png # You can add own logo.
 description: Personal Page of Inhoe Koo
 
@@ -10,7 +10,7 @@ description: Personal Page of Inhoe Koo
 author:
   name: Inhoe Koo (Inae)
   image: InhoeKoo.jpg
-  say-hello: Hello, I’m <strong>Inhoe Koo</strong>
+  say-hello: <strong>Personal Page of Inhoe Koo</strong>
   bio: Research, talks, and writes about <strong>Quantum</strong>, <strong>AI</strong>, <strong>Phillosophy</strong>, and Engineering.
 
 
