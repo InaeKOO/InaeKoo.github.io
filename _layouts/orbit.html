@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f8faff">
   <title>{{ page.title | escape }} — Inhoe Koo</title>
-  <meta name="description" content="{{ page.excerpt | default: site.data.settings.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/orbit/favicon.svg' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/orbit/style.css' | relative_url }}">
 </head>

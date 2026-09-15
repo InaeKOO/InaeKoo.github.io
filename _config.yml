@@ -1,43 +1,20 @@
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Inhoe Koo
+description: Quantum computing, artificial intelligence, and quantum simulation.
 url: "https://inaekoo.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+
+include:
+  - _pages
 
 exclude:
   - vendor
   - .github
   - Gemfile
   - Gemfile.lock
-  - REDESIGN.md
+  - README.md
   - DEPLOYMENT.md
-
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll/tagging
-
-paginate: 5
-paginate_path: "/page/:num"
-
-
-# Pages Path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
-
-include:
-  - _pages
-
-
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
-
-sass:
-  sass_dir: _sass
-  style: compressed
