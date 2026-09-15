@@ -32,7 +32,7 @@ The ZIP contains the clean source tree. Copying it over an old checkout will not
 
 - Folders: `_includes/`, `_sass/`, `_data/`, and `js/`.
 - Files: `_layouts/default.html`, `_layouts/tag_page.html`, `search.json`, `favicon.png`, and `REDESIGN.md` (if present).
-- In `images/`, keep only `InhoeKoo.jpg`, `Adaptive.png`, `QFlowNet-schematic.png`, and `QFlowNet schematic.pdf`. The removed files are the old theme's numbered demo images, old logos, and preview screenshots.
+- In `images/`, keep only `InhoeKoo.jpg`, `Adaptive.png`, `QFlowNet-schematic-preview.png`, and `QFlowNet schematic.pdf`. The removed files are the old theme's numbered demo images, old logos, preview screenshots, and the superseded `QFlowNet-schematic.png`.
 
 Retain `.git/`, `.github/`, `_posts/`, and `_pages/`. Review any newer files you added yourself before deleting them. The active layouts are `orbit.html`, `page.html`, and `post.html`.
 

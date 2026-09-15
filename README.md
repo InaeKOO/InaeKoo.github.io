@@ -38,3 +38,13 @@ The previous site used Artem Sheludko's MIT-licensed Zolan theme. Its unused tem
 ## Verification
 
 Browser checks cover desktop and mobile layouts, portrait loading, menu and research navigation, keyboard/touch, deep links, animation controls, and local assets. A full Jekyll build and live deployment have not been run in this environment; the included GitHub Actions workflow builds before publishing.
+
+## QFlowNet figure
+
+The original `images/QFlowNet schematic.pdf` is the source of truth. The inline `QFlowNet-schematic-preview.png` is rendered from that vector PDF at 300 dpi (4000 × 1772 pixels). Both the detail dialog and the archived article use this preview; clicking it opens the original PDF for full-resolution viewing.
+
+To regenerate with Poppler:
+
+```sh
+pdftoppm -png -r 300 -singlefile "images/QFlowNet schematic.pdf" "images/QFlowNet-schematic-preview"
+```
