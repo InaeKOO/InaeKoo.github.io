@@ -35,3 +35,7 @@
 .profile + .highlight-note {
   margin-top: 16px;
 }
+/* About me 사진을 위로 8px 이동 */
+.profile img {
+  transform: translateY(-8px);
+}
