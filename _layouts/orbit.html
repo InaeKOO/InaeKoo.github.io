@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f8faff">
+  <title>{{ page.title | escape }} — Inhoe Koo</title>
+  <meta name="description" content="{{ page.excerpt | default: site.data.settings.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/orbit/favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/orbit/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Inhoe Koo home"><span class="brand-symbol" aria-hidden="true">i<span>k</span><i></i></span><span>Inhoe Koo<span class="brand-alias"> / Inae</span></span></a>
+    <nav aria-label="Main navigation"><a href="{{ '/#about' | relative_url }}">About</a><a href="{{ '/#research' | relative_url }}">Research</a><a href="{{ '/#publications' | relative_url }}">Publications</a></nav>
+    <a class="header-link" href="https://github.com/InaeKOO" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+  </header>
+  <main id="main" class="document-main">{{ content }}</main>
+  <footer class="site-footer"><a class="footer-name" href="{{ '/' | relative_url }}">Inhoe Koo <span>/ Inae</span></a><p>Quantum computing. Artificial intelligence. A little curiosity.</p><span>© {{ site.time | date: '%Y' }} Inhoe Koo</span></footer>
+</body>
+</html>

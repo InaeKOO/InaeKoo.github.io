@@ -1,56 +1,11 @@
 ---
-layout: default
+layout: orbit
 ---
-
-<div class="container">
-  <div class="post-title-box">
-    <div class="row">
-      <div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0">
-        <span class="post__date">
-          <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
-        </span>
-
-        <h1 class="post-title" style="font-size: 3rem;">{{ page.title | escape }}</h1>
-
-        <div class="post__info">
-          <div class="post__author">
-            <span>By</span>
-            <a href="{{ site.baseurl }}/about/" class="author-name">{{site.data.settings.author.name}}</a>
-          </div>
-
-          {% if page.tags.size >= 1 %}
-          <div class="post__tags">
-            {% for tag in page.tags %}
-              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag }}</a>
-            {% endfor %}
-          </div>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
-
-  {% assign no-image = nil %}
-  {% if page.image and page.hide_header_image != true %}  <div class="post__head">
-      <div class="post-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
-    </div>
-  {% else %}
-    {% assign no-image = 'post-no-image' %}
-  {% endif %}
-
-  </div>
-
-
-  <div class="container">
-  <div class="row">
-    <!-- begin post -->
-    <article class="post {{ no-image }} col col-8 col-t-10 col-m-12">
-
-      <div class="post__content">
-        {{ content }}
-      </div>
-
-    </article>
-    <!-- end post -->
-    </div>
-  </div>
+<a class="text-link" href="{{ '/#research' | relative_url }}">↖ Explore all research</a>
+<article class="document-article">
+  <p class="eyebrow">RESEARCH NOTE / <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y' }}</time></p>
+  <h1>{{ page.title | escape }}</h1>
+  <p class="document-byline">By <a href="{{ '/#about' | relative_url }}">Inhoe Koo</a></p>
+  {% if page.image and page.hide_header_image != true %}<img class="research-image" src="{{ '/images/' | append: page.image | relative_url }}" alt="{{ page.title | escape }}">{% endif %}
+  <div class="document-content">{{ content }}</div>
+</article>

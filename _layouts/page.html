@@ -1,31 +1,10 @@
 ---
-layout: default
+layout: orbit
 ---
-<div class="container">
-	<div class="page-title-box">
-		<div class="row">
-			<div class="col col-10 push-2 col-11 push-t-1 col-m-12 push-m-0">
-				<h1 class="page-title">{{ page.title | escape }}</h1>
-			</div>
-		</div>
-	</div>
-
-	{% if page.image %}
-	<div class="page__head">
-		<div class="page-image" style="background-image: url({{site.baseurl}}/images/{{page.image}})"></div>
-	</div>
-	{% endif %}
-</div>
-
-
-<div class="container">
-	<div class="row">
-		<!-- begin page -->
-		<article class="page col col-8 col-t-10 col-m-12">
-			<div class="page__content">
-				{{ content }}
-			</div>
-		</article>
-		<!-- end page -->
-	</div>
-</div>
+<a class="text-link" href="{{ '/' | relative_url }}">↖ Back to the universe</a>
+<article class="document-article">
+  <p class="eyebrow">INHOE KOO / PROFILE</p>
+  <h1>{{ page.title | escape }}</h1>
+  {% if page.image %}<img class="research-image" src="{{ '/images/' | append: page.image | relative_url }}" alt="{{ page.title | escape }}">{% endif %}
+  <div class="document-content">{{ content }}</div>
+</article>

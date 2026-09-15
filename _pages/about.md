@@ -4,83 +4,66 @@ title: About Me
 permalink: /about/
 ---
 
-> <small> I am a self-motivated student at **Seoul National University (SNU)** majoring in **Electrical and Computer Engineering** with extensive experience in **Quantum Computing**, **Artificial Intelligence**, and **Semiconductor Devices**. My work focuses on reinforcement learning for quantum systems, Generative Flow Networks (GFlowNet), and neutral atom rearrangement. </small>
+I am an Electrical and Computer Engineering undergraduate at **Seoul National University**, exploring **quantum computing, artificial intelligence, and quantum simulation**. My work connects learning-based algorithms with physical quantum systems: generative circuit synthesis, adaptive measurements, neutral atoms, and superconducting hardware.
 
----
+### Vision & Goals
+
+My goal is to develop quantum computational methods for physical simulation problems beyond the reach of classical computers. Useful quantum computation emerges when algorithms, hardware constraints, and physical implementation are designed together. I use AI to navigate complex design spaces, guided by physical understanding.
+
+- **Learning-based quantum compilers:** Connect simulation algorithms with executable circuits, balancing fidelity, circuit depth, and compilation time.
+- **Hardware-aware architectures:** Explore compilation for three-dimensional atom arrays and fault-tolerant methods that account for restricted movement and stochastic loss.
+- **Control, measurement, and physical insight:** Improve how quantum information is delivered, protected, and read out, from adaptive measurements to superconducting RF components.
+
+I aspire to become an **independent scholar and professor** who brings AI to quantum computing with rigor and purpose. Ultimately, I hope to help make quantum computers practical tools for revealing and simulating the quantum nature of physical systems.
 
 ### Education
 
-* **Seoul National University (SNU)** (Mar. 2021 – Aug. 2027)
-    * **B.S. in Electrical and Computer Engineering**
-    * Total GPA: **4.17 / 4.3** (98.7/100)
-    * Major GPA: **4.16 / 4.3**
-    * *Includes 21 months of R.O.K. mandatory military service (May 2023 – Feb. 2025)*
-
-* **Swiss Federal Institute of Technology Zürich (ETH Zürich)** (Feb. 2026 – Aug. 2026)
-    * **Exchange Student**
-
-* **Seoul Science High School (SSHS)** (Mar. 2018 – Feb. 2021)
-    * Total GPA: **4.24 / 4.3**
-
----
-
-### Skills
-
-* **Programming & Frameworks**
-    * **Advanced**: Python, C/C++, AI (LLM, RL, GFlowNet)
-    * **Libraries**: PyTorch, TensorFlow, OpenCV, Scikit-learn
-
-* **Technical Interests**
-    * **Moderate**: Quantum Machine Learning (VQE, QAOA), Neural atom quantum systems
-    * Quantitative Trading and AI-based financial modeling (TQQQ, QQQ, and tech stock analysis)
-
-* **Languages**
-    * **Korean**: Native
-    * **English**: Fluent; IBT TOEFL: **109** (Reading: 29, Listening: 25, Speaking: 27, Writing: 28), TEPS: **466**
-
----
+- **Seoul National University** — B.S. in Electrical and Computer Engineering, Mar. 2021–Present.
+  - Total GPA: **4.17 / 4.3** (98.7/100); major GPA: **4.16 / 4.3**.
+  - Includes 21 months of R.O.K. mandatory military service, May 2023–Feb. 2025.
+- **ETH Zürich** — Exchange student, Feb.–Aug. 2026.
+- **Seoul Science High School** — Mar. 2018–Feb. 2021. GPA: **4.24 / 4.3**.
 
 ### Research Experience
 
-* **Experimental Quantum Engineering Lab, ETH Zürich** (Feb. 2026 – Aug. 2026)
-    * **Semester Project** (Adviser: Prof. Wenchao Xu)
-    * Developed reinforcement learning algorithms for efficient atom rearrangement of neutral Rubidium and Ytterbium atoms using Acousto-Optic Deflectors.
-    * Conducted research at the **Paul Scherrer Institute (PSI)**, Switzerland.
-
-* **Cognitive Machine Learning Lab, SNU** (Jan. 2025 – Jan. 2026)
-    * **Research Intern** (Adviser: Prof. Jungwoo Lee)
-    * Developed a reinforcement learning algorithm based on **Generative Flow Networks (GFlowNets)** to discover optimal quantum circuits for Unitary Synthesis.
-    * Proposed a general-purpose RL framework that selects the optimal Pauli basis (X, Y, Z) conditioned on measurement history (POMDP).
-    * Published: **"QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks"** in IEEE QCNC 2026.
-
-* **IonQ Spring Research Program** (Feb. 2025 – Apr. 2025)
-    * **Researcher** (Adviser: Guillermo Aboumrad)
-    * Proposed a curriculum learning-based model to find the correct ansatz for calculating the lowest energy of a Hamiltonian.
-
----
+- **Applied Superconductivity Lab, SNU** — Research intern, Sep. 2026–Present. Adviser: Prof. Seungyong Han.
+  - Electromagnetic and thermal simulations of superconducting RF components for qubit control and readout, including resonators, transmission lines, and Purcell filters.
+- **Experimental Quantum Engineering Lab, ETH Zürich** — Semester project, Feb.–Aug. 2026. Adviser: Prof. Wenchao Xu.
+  - Hardware-aware reinforcement learning for neutral Rubidium and Ytterbium atom rearrangement using acousto-optic deflectors. Research conducted at PSI; oral presentation at JSAP 2026.
+- **Cognitive Machine Learning Lab, SNU** — Research intern, Jan. 2025–Jan. 2026. Adviser: Prof. Jungwoo Lee.
+  - Developed QFlowNet for generative unitary synthesis and CASH for adaptive Pauli measurement selection. QFlowNet was presented at IEEE QCNC 2026; CASH has been submitted to IEEE QCNC 2027.
+- **IonQ Spring Research Program** — Researcher, Feb.–Apr. 2025. Adviser: Guillermo Aboumrad.
+  - Proposed a curriculum-learning model for finding an ansatz to estimate the lowest energy of a Hamiltonian.
 
 ### Publications & Presentations
 
-* **Koo, Inhoe**, Hyunho Cha, and Jungwoo Lee. "QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks." *International Conference on Quantum Communications, Networking, and Computing (QCNC)*. IEEE, 2026.
-* **Koo, Inhoe**, "Unitary Synthesis using Gflownets." *International Conference On Consumer Electronics Asia (ICCE-Asia)*. IEEE/IEIE, 2025.
-* **Poster Presentation**: Presented a Quantum AI trading project to Stanford professors at the *AI Biohealthcare Drug Discovery SUMMIT*, Stanford University, Jan. 2026.
-
----
+- **Inhoe Koo**, Hyunho Cha, and Jungwoo Lee. “QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks.” **IEEE QCNC, 2026.** [Paper PDF](https://arxiv.org/pdf/2603.03045).
+- **CASH — adaptive quantum state classification.** Manuscript submitted to **IEEE QCNC 2027**.
+- **Inhoe Koo**, Luis Fernández, and Wenchao Xu. “Reinforcement Learning Enhanced Algorithm for Fast Atom-Array Generation.” **JSAP, 2026.** Oral presentation. [Presentation details](https://pub.confit.atlas.jp/en/event/jsap2026a/presentation/10p-F212-13).
+- **Inhoe Koo**. “Unitary Synthesis using GFlowNets.” **IEEE/IEIE ICCE-Asia, 2025.** Poster.
+- **Quantum AI trading project**, SNU KIC SV K-BioX ABDD SUMMIT, Global Innovation Symposium, Stanford University, Jan. 2026. Poster presentation and protocol team.
 
 ### Awards & Honors
 
-* **Presidential Science Scholarship** (2025): Awarded by the Office of the President to nurture world-class scientists.
-* **1st Prize**: AI Competition for Product Recognition of Unmanned Vendors, SNU (2022).
-* **2nd Prize**: U.S. CES & Silicon Valley Training Project Final Presentation, SNU College (2025).
-* **2nd Prize**: AI Object Recognition-Based Resource Recycling Challenge, Korea University (2022).
-* **3rd Prize**: Big Data Innovation Sharing University Contest, SNU (2021).
-* **Academic Excellence Scholarship**: Seoul National University (2021–2023).
+- **Presidential Science Scholarship**, Korea Student Aid Foundation (KOSAF), 2025.
+- **Academic Excellence Scholarship**, SNU, 2021–2023.
+- **1st Prize**, AI Product Recognition Competition, POLARIS Innovation Sharing University, SNU, 2022.
+- **2nd Prize**, AI Object Recognition and Recycling Challenge, Korea University, 2022.
+- **3rd Prize**, Big Data Innovation Sharing University Contest, SNU, 2021.
+- **Korean Physics Olympiad Winter School**, Korean Physical Society, 2019.
 
----
+### Teaching & Community
 
-### Teaching & Leadership
+- **Teaching assistant**, Introduction to Electromagnetism, SNU, Sep.–Dec. 2025. Adviser: Prof. Namkyoo Park.
+- **Laboratory teaching assistant**, Introduction to Circuit Theory, SNU, Mar.–Jun. 2025.
+- **External Affairs**, College of Engineering Honor Society STEM, Sep. 2025–Dec. 2026. Academic seminars and alumni homecoming events.
 
-* **Teaching Assistant**: *Introduction to Electromagnetism*, SNU (Sep. 2025 – Dec. 2025).
-* **Laboratory Teaching Assistant**: *Introduction to Circuit Theory*, SNU (Sep. 2025 – Dec. 2025).
-* **External Affairs**: College of Engineering Honor Society **STEM** (Sep. 2025 – Aug. 2027).
-* **Protocol Team**: AI Biohealthcare Drug Discovery SUMMIT, Stanford University (Jan. 2026).
+### Skills & Interests
+
+Python, C/C++, Qiskit, PyTorch, TensorFlow, reinforcement learning, and GFlowNets. Additional interests include VQE, QAOA, and neutral-atom and superconducting quantum systems.
+
+Korean (native); English (fluent). TOEFL iBT: **109**; TEPS: **466**.
+
+### Contact
+
+[Email](mailto:ihkoo711@snu.ac.kr) · [GitHub](https://github.com/InaeKOO) · [Instagram](https://instagram.com/9_inae/)
