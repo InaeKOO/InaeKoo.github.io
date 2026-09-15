@@ -31,3 +31,7 @@
 @media(max-width:650px){.hero-profile{gap:14px}.hero-profile img{width:76px;height:76px}.hero-profile strong{font-size:17px}.hero-profile>span>span{font-size:10px}}
 
 .research-figure{margin:25px 0}.figure-link{display:block;cursor:zoom-in}.research-figure .research-image{margin:0}.research-figure figcaption{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px 16px;margin-top:10px;font-size:11px;color:var(--muted)}.research-figure figcaption a{color:var(--blue)}.research-figure figcaption a:hover{text-decoration:underline;text-underline-offset:4px}
+
+.profile img {
+  transform: translateY(-8px);
+}
