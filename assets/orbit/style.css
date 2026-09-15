@@ -37,5 +37,5 @@
 }
 /* About me 사진을 위로 8px 이동 */
 .profile img {
-  transform: translateY(-8px);
+  transform: translateY(-12px);
 }
