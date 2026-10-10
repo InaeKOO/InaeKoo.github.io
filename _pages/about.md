@@ -37,7 +37,7 @@ I aspire to become an **independent scholar and professor** who brings AI to qua
 
 ### Publications & Presentations
 
-- **Inhoe Koo**, Hyunho Cha, and Jungwoo Lee. “QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks.” **IEEE QCNC, 2026.** [Paper PDF](https://arxiv.org/pdf/2603.03045).
+- **Inhoe Koo**, Hyunho Cha, and Jungwoo Lee. “QFlowNet: Fast, Diverse, and Efficient Unitary Synthesis with Generative Flow Networks.” **IEEE QCNC, 2026.** [Paper Link](https://ieeexplore.ieee.org/abstract/document/11500388/?casa_token=wB21QVpQOnIAAAAA:P24PsZeEa_V8XAJAWGXxgXzmqT82hu6Ieb3TjzjCO_nMS6kuCp6C1zBm9DqYVFUljuJumFEmggsB).
 - **CASH — adaptive quantum state classification.** Manuscript submitted to **IEEE QCNC 2027**.
 - **Inhoe Koo**, Luis Fernández, and Wenchao Xu. “Reinforcement Learning Enhanced Algorithm for Fast Atom-Array Generation.” **JSAP, 2026.** Oral presentation. [Presentation details](https://pub.confit.atlas.jp/en/event/jsap2026a/presentation/10p-F212-13).
 - **Inhoe Koo**. “Unitary Synthesis using GFlowNets.” **IEEE/IEIE ICCE-Asia, 2025.** Poster.
